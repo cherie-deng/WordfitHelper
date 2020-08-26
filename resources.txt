@@ -1,0 +1,3 @@
+Resource links:
+
+https://www.codeproject.com/Articles/328417/Java-Console-Apps-Made-Easy
