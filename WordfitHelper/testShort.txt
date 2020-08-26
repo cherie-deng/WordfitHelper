@@ -1,0 +1,24 @@
+# 3 letters
+add
+alp
+amp
+
+# 4 letters
+adds
+aria
+aunt
+
+# 5 letters
+abode
+adieu
+aides
+
+# 6 letters
+arises
+lessen
+scream
+
+# 7 letters
+bereave
+genesis
+partner

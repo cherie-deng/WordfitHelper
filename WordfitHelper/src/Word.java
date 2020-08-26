@@ -8,7 +8,15 @@ public class Word {
     }
 
     public char charAt(int index) {
-        // TODO: add bound checking.
+        // TODO: add bound checking
+        if (index >= word.length()) {
+            return '#'; // Random non-letter symbol.
+        }
         return word.charAt(index);
+    }
+
+    @Override
+    public String toString(){
+        return word;
     }
 }

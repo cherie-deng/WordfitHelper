@@ -1,3 +1,4 @@
 Resource links:
 
 https://www.codeproject.com/Articles/328417/Java-Console-Apps-Made-Easy
+https://www.javatpoint.com/how-to-read-file-line-by-line-in-java#:~:text=Using%20BufferedReader%20Class,a%20file%20line%20by%20line.
