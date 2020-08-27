@@ -2,9 +2,9 @@ public class Word {
     private final String word;
     public final int length;
 
-    public Word(String word, int length){
+    public Word(String word){
         this.word = word;
-        this.length = length;
+        this.length = word.length(); // TODO: remove hyphens
     }
 
     public char charAt(int index) {
